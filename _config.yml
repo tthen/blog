@@ -5,6 +5,10 @@ o#
 # Name of your site (displayed in the header)
 name: Henry Torres
 
+title: "El software de Henry Torres "
+subtitle: "Software para la atmosfera"
+logo: "/assets/images/icons8-case-study-48.png"
+
 # Short bio or description (displayed in the header)
 description: Ingeniero con estudios de maestria en Ingenieria Ambiental y magister en Ciencias de la Computacion.
 
