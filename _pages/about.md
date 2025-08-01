@@ -9,7 +9,7 @@ Hola! Soy Henry Torres. Bienvenido a mi pagina web personal. Soy Ingeniero de pr
 
 ### Intereses
 
-Estoy interesado en utilizar herramientas de computo para obtener soluciones rapidas y efectivas para entregar resultados de manera oportuna al cliente. Para mis proyectos utilizo varias herramientas de computo, incluyendo python, R y el sistema operativo Linux en las variantes Ubuntu, AlmaOS, CentOS, Fedora.
+Estoy interesado en utilizar herramientas de computo para obtener soluciones rapidas y efectivas para entregar resultados de manera oportuna al cliente. Para mis proyectos utilizo varias herramientas de computo, incluyendo python, R y el sistema operativo Linux en las variantes Ubuntu, AlmaLinux OS, CentOS, Fedora.
 
 ### Contactarme
 
