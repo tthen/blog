@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Quien soy
 
-Ingeniero con estudios de maestria en Ingenieria Ambiental y magister en Ciencias de la Computacion; enfasis metodos numericos para solucion de ecuaciones diferenciales que simulan el comportamiento de fenomenos fisicos en transporte-difusion de sustancias quimicas y propiedades fisicas (presion, temperatura, trazadores, etc.) del fluido en estudio.
+Hola! Soy Henry Torres. bienvenido a mi pagina web personal. Soy Ingeniero de profesion con estudios de maestria en Ingenieria Ambiental y magister en Ciencias de la Computacion; enfasis metodos numericos para solucion de ecuaciones diferenciales que simulan el comportamiento de fenomenos fisicos en transporte-difusion de sustancias quimicas y propiedades fisicas (presion, temperatura, trazadores, etc.) del fluido en estudio.
 
 ### Intereses
 
