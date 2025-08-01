@@ -125,7 +125,8 @@ A continuación, se realizan las similitudes de las condiciones ambientales entr
 
 Tabla 22 Comportamiento del albedo por uso del suelo y periodo estacional
 
-Rosa de vientos
+**Rosa de vientos**
+
 A continuación se ilustra la representación gráfica del comportamiento de los vientos, según registros históricos del aeropuerto de Montería comprendidos entre el 1 de enero de 1970 a 2 de septiembre de 2024. En la Figura 26 se aprecia el comportamiento promedio anual o multianual de los vientos y entre la Figura 27 a Figura 38 la representación de esta variable para los doce meses del año.  
 
 En general el vector viento indica que la dirección predominante es hacia el Sureste, tanto en el comportamiento anual, como en los doce meses del año. Sin embargo, hay una cierta variación en la velocidad promedio, destacando velocidades altas los meses febrero, marzo y abril con velocidades superiores a 3 millas por hora (4.82 km/h, esto es 1.3 m/s).
@@ -182,7 +183,6 @@ Donde Cd, Cr, y Cp: Contribuciones de las fuentes directa, indirecta y que ingre
 Concentración de la pluma debido a la pluma directa,
 
 Concentración de la pluma debido a la pluma indirecta,
-
 
 Concentración de la pluma debido a la pluma que ingresa,
 
