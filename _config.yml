@@ -80,7 +80,7 @@ analytics:
 author:
   name      : "Henry Torres"
   avatar    : "/assets/images/1754010640945_re.png"
-  bio       : "Disfruto escribir software para agilizar los procesos de modelado y analisis de datos con Python y R."
+  bio       : "Disfruto escribir software para agilizar los procesos de modelado y analisis de datos con Python y R en entorno Linux."
   location  : "Bogota, D.C., Colombia"
   links:
     - label: "Website"
