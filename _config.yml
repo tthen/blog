@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# name: Henry Torres
+
 title: "El software de Henry Torres "
 subtitle: "Software para la atmosfera"
 logo: "/assets/images/icons8-case-study-48.png"
@@ -78,7 +78,7 @@ analytics:
     anonymize_ip: false # default
 
 author:
-  name      : "Adam Gladstone"
+  name      : "Henry Torres"
   avatar    : "/assets/images/1754010640945_re.png"
   bio       : "Disfruto escribir software para agilizar los procesos de modelado y analisis de datos con Python y R."
   location  : "Bogota, D.C., Colombia"
